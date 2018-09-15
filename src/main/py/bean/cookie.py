@@ -262,7 +262,10 @@ class QQCookie(HttpCookie):
         '''
         is_keep = True
 
-        if self.SIG_KEY.upper() == name.upper():
+        if value.strip() == '' :
+            is_keep = False
+
+        elif self.SIG_KEY.upper() == name.upper():
             self.sig = value
 
         elif self.VCODE_KEY.upper() == name.upper():
