@@ -27,7 +27,7 @@
 ## 运行展示
 
 ### ※ 登陆QQ空间
-![登陆界面](https://raw.githubusercontent.com/lyy289065406/pyzone-crawler/master/doc/%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE/01-%E7%99%BB%E9%99%86QQ%E7%A9%BA%E9%97%B4.png)
+![登陆QQ空间](https://raw.githubusercontent.com/lyy289065406/pyzone-crawler/master/doc/%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE/01-%E7%99%BB%E9%99%86QQ%E7%A9%BA%E9%97%B4.png)
 
 ### ※ 爬取QQ空间相册
 ![爬取QQ空间相册](https://raw.githubusercontent.com/lyy289065406/pyzone-crawler/master/doc/%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE/02-%E7%88%AC%E5%8F%96QQ%E7%A9%BA%E9%97%B4%E7%9B%B8%E5%86%8C.png)
@@ -41,7 +41,7 @@
 
 ## 安装与使用
 
-- 01.　安装Python环境【[python-3.5.2-amd64.exe](xxxx)】
+- 01.　安装Python环境【[python-3.5.2-amd64.exe](https://lyy289065406.github.io/environment/environment/python/windows/x64/python-3.5.2-amd64.exe)】
 - 02.　导入`pyzone-crawler`项目源码并运行
 - 03.　根据命令行提示，选择【爬取相册数据】或【爬取说说数据】，即可自动批量下载 `图片及其相关信息` 
 - 04.　所下载的数据会自动整理到程序根目录下的 `data` 文件夹：
