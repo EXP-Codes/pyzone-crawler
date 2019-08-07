@@ -27,16 +27,16 @@
 ## 运行展示
 
 ### ※ 登陆界面
-![登陆界面](https://github.com/lyy289065406/jzone-crawler/blob/master/doc/%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE/01-%E7%99%BB%E9%99%86QQ%E7%A9%BA%E9%97%B4.png)
+![登陆界面](https://github.com/lyy289065406/pyzone-crawler/blob/master/doc/%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE/01-%E7%99%BB%E9%99%86QQ%E7%A9%BA%E9%97%B4.png)
 
 ### ※ 爬取QQ空间相册
-![爬取QQ空间相册](https://github.com/lyy289065406/jzone-crawler/blob/master/doc/%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE/02-%E7%88%AC%E5%8F%96QQ%E7%A9%BA%E9%97%B4%E7%9B%B8%E5%86%8C.png)
+![爬取QQ空间相册](https://github.com/lyy289065406/pyzone-crawler/blob/master/doc/%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE/02-%E7%88%AC%E5%8F%96QQ%E7%A9%BA%E9%97%B4%E7%9B%B8%E5%86%8C.png)
 
 ### ※ 爬取QQ空间说说
-![爬取QQ空间说说](https://github.com/lyy289065406/jzone-crawler/blob/master/doc/%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE/03-%E7%88%AC%E5%8F%96QQ%E7%A9%BA%E9%97%B4%E8%AF%B4%E8%AF%B4.png)
+![爬取QQ空间说说](https://github.com/lyy289065406/pyzone-crawler/blob/master/doc/%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE/03-%E7%88%AC%E5%8F%96QQ%E7%A9%BA%E9%97%B4%E8%AF%B4%E8%AF%B4.png)
 
 ### ※ 分类整理所下载的图文数据
-![分类整理所下载的图文数据](https://github.com/lyy289065406/jzone-crawler/blob/master/doc/%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE/04-%E6%95%B0%E6%8D%AE%E5%AD%98%E5%82%A8%E7%9B%AE%E5%BD%95%E7%BB%93%E6%9E%84.png)
+![分类整理所下载的图文数据](https://github.com/lyy289065406/pyzone-crawler/blob/master/doc/%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE/04-%E6%95%B0%E6%8D%AE%E5%AD%98%E5%82%A8%E7%9B%AE%E5%BD%95%E7%BB%93%E6%9E%84.png)
 
 
 ## 安装与使用
